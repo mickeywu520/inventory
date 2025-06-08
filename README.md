@@ -1,0 +1,2 @@
+# inventory
+streamlit app practice
